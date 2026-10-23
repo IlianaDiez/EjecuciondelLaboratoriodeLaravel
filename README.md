@@ -151,7 +151,10 @@ php artisan serve
 
 
 ### Paso 3.7: Creacion de Usuario
-<img width="1717" height="463" alt="Captura de pantalla 2026-10-23 085055" src="https://github.com/user-attachments/assets/f9437bf6-a9ae-4f27-88da-4c5e7e806eaa" />
+<img width="1917" height="1012" alt="Captura de pantalla 2026-10-22 140622" src="https://github.com/user-attachments/assets/81d0797b-5812-4022-afb0-f1b37732ac34" />
+
+<img width="1917" height="880" alt="Captura de pantalla 2026-10-22 140645" src="https://github.com/user-attachments/assets/34be5be0-7b3d-4491-bde9-eb27a553185b" />
+
 
 
 ---
